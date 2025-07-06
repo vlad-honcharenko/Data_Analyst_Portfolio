@@ -5,4 +5,4 @@ It uncovers trends in defect types, repair costs, inspection effectiveness, and 
 
 **Dataset Link:** <https://www.kaggle.com/datasets/fahmidachowdhury/manufacturing-defects/data>
 
-<img src="https://github.com/user-attachments/assets/aa102d24-1bbc-446e-b675-645dd7f872ab" alt="Defect Summary Dashboard" width="600"/>
+<img src="https://github.com/user-attachments/assets/aa102d24-1bbc-446e-b675-645dd7f872ab" alt="Defect Summary Dashboard" width="800"/>
