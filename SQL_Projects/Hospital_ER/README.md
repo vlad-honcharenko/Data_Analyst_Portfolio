@@ -18,7 +18,7 @@ The database is designed to:
 
 ## ER-model
 
-![ER-model](.\image\Diagram_DB.png)
+<img width="1194" height="811" alt="Diagram_DB" src="https://github.com/user-attachments/assets/c7a70e86-1782-4f83-9826-96e3877aa787" />
 
 ---
 
